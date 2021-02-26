@@ -3,3 +3,4 @@
 На вход принимает файл text2.txt. 
 На выход файл textWriter.  
 **Проблема с выходным файлом в том, что встречаются повторения слов.**
+[Файл с проектом](https://github.com/mayr0y/DigitalDesign/blob/master/FileSortTask/Program.cs)
